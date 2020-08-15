@@ -16,4 +16,9 @@ if(keyboard_check(vk_down)){
 	motion_add(image_angle, -0.05);
 }
 
+if(keyboard_check_pressed(vk_space)){
+	var Inst = instance_create_layer(x,y,"Instances", oBullet);
+	Inst.direction = image_angle;
+}
+
 move_wrap(true,true,sprite_width/2);
