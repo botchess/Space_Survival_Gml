@@ -39,10 +39,26 @@
             }
         },
         {
+            "Key": "05c33ad8-c262-4e4a-a203-dbaeed30b4f7",
+            "Value": {
+                "id": "ab3d309b-a443-4f31-b751-97dcf8df2701",
+                "resourcePath": "rooms\\rLose\\rLose.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0a55f8e2-3499-4d8d-9d19-7c6cedc642f9",
             "Value": {
                 "id": "f0094e5e-fb39-4251-9d57-660319b7cd94",
                 "resourcePath": "objects\\oDebris\\oDebris.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "12cf8ade-21cc-4119-a864-2bb4dd03fbb6",
+            "Value": {
+                "id": "5035d378-080d-4295-bafa-302303d228f5",
+                "resourcePath": "objects\\oGame\\oGame.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -84,6 +100,14 @@
                 "id": "0c482b7c-7b1e-4e72-8b36-91b3ffff6b00",
                 "resourcePath": "views\\46eaeb83-d88d-4e7f-8c36-caaee565ccca.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "475c2d89-be04-4c4f-96dd-317f5f434e82",
+            "Value": {
+                "id": "4a5b045b-ed37-46bf-b914-0d87e813dd0e",
+                "resourcePath": "fonts\\Text\\Text.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -140,6 +164,14 @@
                 "id": "8192c883-af81-4d5c-a37d-4de656fdc21b",
                 "resourcePath": "sprites\\sShip\\sShip.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a9f17f2c-a3a5-42ad-a09b-23a4df1ecd63",
+            "Value": {
+                "id": "b100a4ec-3ade-4b2d-b501-75011fcebfe4",
+                "resourcePath": "rooms\\rStart\\rStart.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
