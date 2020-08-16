@@ -13,5 +13,9 @@ break;
 if(room == rGame){
 if(lives <= 0){
 	room_goto(rLose);
+	audio_play_sound(Lose_Music, 1, false)
 }
+}
+if(room = rLose){
+	audio_stop_sound(main_song)
 }

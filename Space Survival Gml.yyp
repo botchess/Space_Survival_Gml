@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1d150eca-7091-429f-8ed5-00a3b71eeb5a",
+            "Value": {
+                "id": "b51f24ff-a9a4-4801-b8e0-db716cfdf857",
+                "resourcePath": "sounds\\main_song\\main_song.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "27a783b6-58e0-48ec-95aa-1694036f52af",
             "Value": {
                 "id": "957b61dd-6c2c-4c19-ad8e-94fba1b58b6e",
@@ -76,6 +84,14 @@
                 "id": "cea4a232-ed9d-46af-88f3-df130571483b",
                 "resourcePath": "objects\\oAsteroid\\oAsteroid.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "35c71b3e-e7aa-4c1f-8ccf-f4bccae49b49",
+            "Value": {
+                "id": "ad3c48d7-49e3-4baa-86c4-3c1b3f6b40ee",
+                "resourcePath": "views\\35c71b3e-e7aa-4c1f-8ccf-f4bccae49b49.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -143,6 +159,14 @@
             }
         },
         {
+            "Key": "85436276-9e6f-49af-88b5-10b82820440a",
+            "Value": {
+                "id": "db8e1b92-3c5a-4210-a620-b102b3d79fc5",
+                "resourcePath": "sounds\\Crash_Sound\\Crash_Sound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8b9bc2ae-68ea-4204-bd30-8d348c68d9b0",
             "Value": {
                 "id": "3de49d90-1aff-46b9-a7dd-e2462b1f7041",
@@ -175,6 +199,14 @@
             }
         },
         {
+            "Key": "aacdace3-28b6-4b59-ac6d-347eb2c89914",
+            "Value": {
+                "id": "6273b505-f121-4dea-94e3-53fd3fc106a9",
+                "resourcePath": "sounds\\Asteroid_Sound\\Asteroid_Sound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "addb89e1-89fd-425c-9530-5df687b178b5",
             "Value": {
                 "id": "fbac3abb-a87b-407a-8e16-74edfab1a0c8",
@@ -204,6 +236,14 @@
                 "id": "c47624f2-e385-4b97-9947-bd40134177b3",
                 "resourcePath": "views\\bab3768b-d192-412e-981f-a8890d3fa47b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c4862a9b-c59c-4820-86a2-f13f2ee3e225",
+            "Value": {
+                "id": "0ef07f5d-1295-4510-a3ca-6fb5a0feeddf",
+                "resourcePath": "sounds\\Lose_Music\\Lose_Music.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -247,6 +287,14 @@
             }
         },
         {
+            "Key": "dd29172d-b284-4aa5-ab29-2e57c10c57c7",
+            "Value": {
+                "id": "e6131246-5d1b-47af-adb4-a48ee4d113d1",
+                "resourcePath": "sounds\\Hurt_Sound\\Hurt_Sound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "dd3323d4-ff3f-4afa-b42d-b652525251e6",
             "Value": {
                 "id": "71d45d7e-fbeb-466f-9e1a-60ee5ca2ee79",
@@ -268,6 +316,14 @@
                 "id": "7d4ea373-c186-4464-bdb3-2ea3456ad06c",
                 "resourcePath": "sprites\\sAsteroidMed\\sAsteroidMed.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ed614efc-ace2-4bcb-a97d-40d24e7aefae",
+            "Value": {
+                "id": "eb87bd85-6395-4567-8c97-b9acef4d01a3",
+                "resourcePath": "sounds\\Zap2\\Zap2.yy",
+                "resourceType": "GMSound"
             }
         },
         {

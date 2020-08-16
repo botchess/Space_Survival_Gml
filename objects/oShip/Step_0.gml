@@ -19,6 +19,7 @@ if(keyboard_check(vk_down)){
 if(keyboard_check_pressed(vk_space)){
 	var Inst = instance_create_layer(x,y,"Instances", oBullet);
 	Inst.direction = image_angle;
+	audio_play_sound(Zap2, 1, false)
 }
 
 move_wrap(true,true,sprite_width/2);
